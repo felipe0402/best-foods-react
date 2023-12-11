@@ -3,7 +3,7 @@ import { categories } from "../data/data.js";
 
 const Category = () => {
   return (
-    <div className="max-w-{1640px} m-auto  px-4 py-12">
+    <div className="max-w-[1640px] m-auto  px-4 py-12 select-none">
       <h1 className=" text-orange-600 font-bold  text-4xl text-center">
         Menu de classificação mais alta
       </h1>
