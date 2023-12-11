@@ -91,7 +91,7 @@ const Food = () => {
               onClick={() => filterPrice("$$$$")}
               className=" m-1 select-none border-orange-600 text-orange-600 hove:bg-orange-600 hover:text-orange-100"
             >
-              $$$
+              $$$$
             </button>
           </div>
         </div>
